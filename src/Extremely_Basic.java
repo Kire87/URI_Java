@@ -11,6 +11,8 @@ public class Extremely_Basic {
 		int X = A + B;
 		
 		System.out.println("X = " + X);
+		
+		sc.close();
 	}
 
 }
