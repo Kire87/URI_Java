@@ -1,2 +1,2 @@
 # URI_Java
-URI Online Judge problems resolutions in Java
+URI Online Judge (beecrowd) problems resolutions in Java
